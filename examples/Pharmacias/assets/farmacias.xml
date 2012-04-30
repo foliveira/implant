@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+		<Placemark>
+			<name>FARMÁCIA SAGRES</name>
+			<description>Avenida Luís Bivar, 69-71 - 1050-142 São Sebastião da Pedreira - Tel. 213547213</description>
+			<Point>
+				<coordinates>-9.150125, 38.733580, 0.0</coordinates>
+			</Point>
+			<status>PERMANENTE</status>
+		</Placemark>
+		<Placemark>
+			<name>FARMÁCIA MARLUZ</name>
+			<description>Calçada da Picheleira 140 A-B - 1900-374 Beato - Tel. 218437550</description>
+			<Point>
+				<coordinates>-9.123368, 38.737733, 0.0</coordinates>
+			</Point>
+			<status>PERMANENTE</status>
+		</Placemark>
+		<Placemark>
+			<name>FARMÁCIA AVIS</name>
+			<description>Avenida de Roma, 56-B-C - 1700-348 Alvalade - Tel. 218495370</description>
+			<Point>
+				<coordinates>-9.141312, 38.748461, 0.0</coordinates>
+			</Point>
+			<status>PERMANENTE</status>
+		</Placemark>
+		<Placemark>
+			<name>FARMÁCIA ALTO DOS MOINHOS</name>
+			<description>Rua João de Freitas Branco, 15 A-B - 1500-714 São Domingos de Benfica - Tel. 217264450</description>
+			<Point>
+				<coordinates>-9.18049, 38.752561, 0.0</coordinates>
+			</Point>
+			<status>PERMANENTE</status>	
+		</Placemark>
+		<Placemark>
+			<name>FARMÁCIA REIS OLIVEIRA</name>
+			<description>Rua Cidade Nampula Edifício Paris, LOTE 534 - 1800-105 Santa Maria dos Olivais - Tel. 218550680</description>
+			<Point>
+				<coordinates>-9.12049, 38.763077, 0.0</coordinates>
+			</Point>
+			<status>PERMANENTE</status>	
+		</Placemark>
+		<Placemark>
+			<name>FARMÁCIA FERNANDES</name>
+			<description>Rua de São José, 187 - 1150-322 São José - Tel. 213426476</description>
+			<Point>
+				<coordinates>-9.114436, 38.760801, 0.0</coordinates>
+			</Point>
+			<status>PERMANENTE</status>
+		</Placemark>
+		<Placemark>
+			<name>FARMÁCIA DOURO LDA.</name>
+			<description>Alameda Linhas de Torres, 93-A-B - 1750-140 Lumiar - Tel. 217541092</description>
+			<Point>
+				<coordinates>-9.15700, 38.763738, 0.0</coordinates>
+			</Point>
+			<status>PERMANENTE</status>
+		</Placemark>
+		<Placemark>
+			<name>FARMÁCIA MOURA</name>
+			<description>Travessa da Memória, 45 B - 1300-402 Ajuda - Tel. 213630944</description>
+			<Point>
+				<coordinates>-9.20180, 38.702299, 0.0</coordinates>
+			</Point>
+			<status>PERMANENTE</status>
+		</Placemark>
+	</Document>
+</kml>        
